@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Charles Jullianne!
+# 👋 Hi, I'm Charles!
 
 * 🎓 Currently a **Second-Year Computer Science Student** at **Batangas State University**.
 * 💼 Aspiring to become a **Web Developer**, with a focus on building responsive web applications, clean front-end UI, and modern software design.
