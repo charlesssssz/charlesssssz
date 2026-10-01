@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Charles!
+# 👋 Hi, I'm Charles Jullianne!
 
 * 🎓 Currently a **Second-Year Computer Science Student** at **Batangas State University**.
 * 💼 Aspiring to become a **Web Developer**, with a focus on building responsive web applications, clean front-end UI, and modern software design.
@@ -28,4 +28,5 @@
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
